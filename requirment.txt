@@ -1,0 +1,12 @@
+# KS Watches - Requirements
+
+# Frontend
+React==18.3.1
+ReactDOM==18.3.1
+
+# Backend (optional - for Node.js/Express server)
+express==5.1.0
+
+# Runtime
+Node.js>=18.0.0
+npm>=9.0.0
